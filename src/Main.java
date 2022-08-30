@@ -4,7 +4,7 @@ public class Main {
         SquareCalculator sqcal = new SquareCalculator();
         sqcal.setX(10);
         sqcal.setY(5);
-        sqcal.calcSquare(sqcal.getX(),sqcal.getY());
+        sqcal.calcSquare();
 
     }
 }

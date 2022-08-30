@@ -18,8 +18,14 @@ public class SquareCalculator {
         this.y = y;
     }
 
-    public int calcSquare(int x, int y){
+    /*public int calcSquare(int x, int y){
         System.out.println(x*y);
         return x*y;
+    }*/
+
+    public int calcSquare(){
+        System.out.println(this.x*this.y);
+        return x*y;
     }
+
 }
