@@ -1,4 +1,9 @@
 public class SquareCalculator {
+
+    public SquareCalculator(int length,int width) {
+        this.y=width;
+        this.x=length;
+    }
     private int x;  //length
     private int y;  //width
 
@@ -24,7 +29,7 @@ public class SquareCalculator {
     }*/
 
     public int calcSquare(){
-        System.out.println(this.x*this.y);
+        //System.out.println(this.x*this.y);
         return x*y;
     }
 

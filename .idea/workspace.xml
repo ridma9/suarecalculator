@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c85f42-bdd4-43ee-bf54-b80ce77ce0fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SquareCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SquareCalculator.java" afterDir="false" />
