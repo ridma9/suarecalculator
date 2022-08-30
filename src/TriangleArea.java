@@ -1,30 +1,30 @@
 public class TriangleArea {
 
     public TriangleArea(int height, int base){
-        this.x=height;
-        this.y=base;
+        this.height=height;
+        this.base=base;
     }
 
-    private int x;
-    private int y;
+    private int height;
+    private int base;
 
-    public int getX() {
-        return x;
+    public int getHeight() {
+        return height;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setHeight(int height) {
+        this.height = height;
     }
 
-    public int getY() {
-        return y;
+    public int getBase() {
+        return base;
     }
 
-    public void setY(int y) {
-        this.y = y;
+    public void setBase(int base) {
+        this.base = base;
     }
 
     public double calcTriangleArea() {
-        return 0.5*y*x;
+        return 0.5*height*base;
     }
 }
